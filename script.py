@@ -747,7 +747,7 @@ class MainWindow(QWidget):
                         padding-right: 15px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px;\
                         border: 0px medium; border-radius: 2px; font-size: 13px;")
 
-                        alpha_help_file = open("Help Section.txt", "r")
+                        alpha_help_file = open("help section.txt", "r")
                         data = alpha_help_file.read()
                         alpha_help_file.close()
 
