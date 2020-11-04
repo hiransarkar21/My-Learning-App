@@ -1,0 +1,5 @@
+PyPDF2
+pyttsx3
+nltk
+docx
+PyQt5

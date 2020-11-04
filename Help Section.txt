@@ -1,0 +1,35 @@
+
+New File - From the New File you can create text and docx files.Please put valid name and valid locations to crate the file sucessfully.
+* Please enter valid filename and locations.
+
+
+
+Open File - From the Open File button you can open existing files.Choose valid file for the app to work perfectly. 
+* Please wait 3s to 5s for big files to open.
+
+
+
+Save File - You can save your work by clicking the Save File button.Before clicking the save file button, make sure that you first open or create a file to be saved.
+
+
+Todo Window - From this window you can add items that needs to be completed or any chores. You can add, delete, clear and also mark itmes completed.
+
+
+
+Pdf to Audiobook - From this window you can select pdfs and then convert them to audiobooks.
+* Please choose a valid pdf file for converting it into audiobook.
+
+
+
+Summarize - From this window you can summarize big texts into small paragraps. Thus helping you to memorize and understand only the keyconcepts.
+
+
+* Copy the text and then open the window, and then click the Import Clipboard Button to import the copied text and then click summerize and then export the text in a text file.
+
+
+
+Settings - In this window you can find help and also know about My Learning Application.
+
+
+		     Enjoy the app :)
+
