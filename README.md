@@ -9,7 +9,7 @@ Features Includes
 `Saving File`</br>
 `Managing Todos`</br>
 `Converting PDF to Audiobook`</br>
-`Text Summarizer`</br>
+`Text Summarizing`</br>
 
 And it also have  a settings window from where you can get more help and information about the app.
 
