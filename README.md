@@ -15,9 +15,9 @@ And it also have  a settings window from where you can get more help and informa
 
 Supporting Modules Includes
 
-`PyPDF2`
-`pyttsx3`
-`nltk` 
+`PyPDF2`</br>
+`pyttsx3`</br>
+`nltk`</br> 
 `docx`
 
 I hope you will find it interesting.
