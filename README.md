@@ -1,6 +1,7 @@
 # My-Learning-App
 
-My Learning App is a fully featured learning app developed using Python and PyQt5 and is meant for students. 
+My Learning App is a fully featured learning app developed using Python and PyQt5 and is meant for students.<br>
+**Qt Designer was not used for developing the app**
 
 Features Includes
 
