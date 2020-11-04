@@ -4,12 +4,12 @@ My Learning App is a fully featured learning app developed using Python and PyQt
 
 Features Includes
 
-> Creating File
-> Opening File
-> Saving File
-> Managing Todos
-> Converting PDF to Audiobook
-> Text Summarizer
+> Creating File</br>
+> Opening File</br>
+> Saving File</br>
+> Managing Todos</br>
+> Converting PDF to Audiobook</br>
+> Text Summarizer</br>
 
 And it also have  a settings window from where you can get more help and information about the app.
 
