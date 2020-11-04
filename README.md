@@ -15,10 +15,10 @@ And it also have  a settings window from where you can get more help and informa
 
 Supporting Modules Includes
 
-`PyPDF2` - for working with pdfs
-`pyttsx3` - for working with text to speech
-`nltk` - for working with text summarization
-`docx` - for working with word document
+`PyPDF2`
+`pyttsx3`
+`nltk` 
+`docx`
 
 I hope you will find it interesting.
 
