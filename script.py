@@ -9,7 +9,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 
-font = QFont()
+font = QFont("Ubuntu")
 font.setWordSpacing(1.5)
 font.setLetterSpacing(QFont.AbsoluteSpacing, 1)
 
